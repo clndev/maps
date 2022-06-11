@@ -1,2 +1,2 @@
 # maps
-Getting more comfortable with Typescript by playing around with the Google Maps API. 
+Getting familiar with Typescript and playing around with the Google Maps API. 
